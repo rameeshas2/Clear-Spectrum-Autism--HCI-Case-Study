@@ -278,12 +278,15 @@ https://www.figma.com/design/TnKkZRdMJlIOP0hw72p8Nz/Case-Study
 
 ---
 
-## 🌐 Behance Case Study
+## 🌐 Behance Case Studies
 
-* Light Theme Case Study
-* Dark Theme Case Study
+Explore the complete UX research, design process, wireframes, and high-fidelity case studies on Behance.
 
-(Add your Behance links here.)
+### ☀️ Light Theme Case Study
+https://www.behance.net/gallery/227755311/Autism-App-Case-Study
+
+### 🌙 Dark Theme Case Study
+https://www.behance.net/gallery/227757077/Autism-App-Case-Study
 
 ---
 
