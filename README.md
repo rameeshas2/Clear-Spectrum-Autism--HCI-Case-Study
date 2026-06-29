@@ -290,19 +290,23 @@ https://www.figma.com/design/TnKkZRdMJlIOP0hw72p8Nz/Case-Study
 # 📂 Project Structure
 
 ```text
-clear-spectrum-hci/
+
+clear-spectrum/
 │
 ├── assets/
-│   ├── image_d9409f.png          # Project thumbnail / cover image
-│   ├── desktop-1.jpg             # Light theme high-fidelity UI
-│   └── desktop-2.jpg             # Dark theme high-fidelity UI
+│   ├── Dark_Theme.jpg
+│   └── Light_Theme.jpg
 │
 ├── documentation/
-│   ├── user-personas.pdf         # User personas and research
-│   └── wireframes-low-fi.pdf     # Low-fidelity wireframes
+│   ├── user_persona_dark_theme.pdf
+│   ├── user_persona_light_theme.pdf
+│   ├── wireframe_high_fidelity_dark.jpg
+│   ├── wireframe_high_fidelity_light.jpg
+│   ├── wireframe_low_fidelity_dark.jpg
+│   └── wireframe_low_fidelity_light.pdf
 │
-├── .gitignore                    # Git ignored files
-└── README.md                     # Project documentation
+└── README.md
+```
 ```
 
 ```
